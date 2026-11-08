@@ -1,0 +1,9 @@
+kurigram==2.2.24
+tgcrypto==1.2.2
+motor
+pymongo
+dnspython
+python-dotenv
+Flask
+uvloop
+psutil
